@@ -2,8 +2,6 @@
 
 Test Rails App
 
-test commit
-
 Things you may want to cover:
 
 * Ruby version
